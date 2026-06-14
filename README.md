@@ -11,7 +11,7 @@ Generates a single `.ics` feed of everything happening at Wrigley Field:
 Subscribe to this in any calendar app:
 
 ```
-https://petercompernolle.com/wrigley-calendar/wrigley.ics
+https://raw.githubusercontent.com/thelowlypeon/wrigley-calendar/main/wrigley.ics
 ```
 
 ## How it's regenerated
