@@ -6,6 +6,21 @@ Generates a single `.ics` feed of everything happening at Wrigley Field:
   venue)
 - Concerts and other special events (via the Ticketmaster Discovery API)
 
+## Why?
+
+Because I love this neighborhood but hate living so close to Wrigley.
+
+1. I don't like the Cubs
+2. Cubs fans pee in our alley, puke on our sidewalks, and drive recklessly instead of taking one of the many public transportation options.
+3. Bands like [Pearl Jam](https://www.timeout.com/chicago/music/pearl-jam-at-wrigley-field-turns-into-late-night-jam) and [Mumford & Sons](https://blockclubchicago.org/2026/06/12/mumford-sons-kept-wrigleyville-awake-past-midnight-triggering-fines-but-neighbors-say-they-didnt-mind/) think they get street cred by pissing off local residents _for the fans_ or whatever. They can go `[REDACTED]` themselves.
+
+More practically:
+
+1. The Cubs have a calendar feed, but that includes away games.
+2. Ticketmaster has a calendar feed for Wrigley, but that doesn't include Cubs games.
+
+With this feed, I know when to avoid the red line and certain restaurants, and when to make sure my windows are closed in case shitty bands play illegally late _for the fans_ or whatever.
+
 ## Calendar URL
 
 Subscribe to this in any calendar app:
