@@ -103,6 +103,24 @@ RSpec.describe WrigleyCalendar::IcsBuilder do
       expect(ics.scan("UID:").size).to eq(1)
     end
 
+    it "de-duplicates events with the same start time but different summaries" do
+      # e.g. an MLB game and Ticketmaster's separate listing for the same game
+      a = event(uid: "a@x", summary: "Rockies at Cubs")
+      b = event(uid: "b@x", summary: "Chicago Cubs vs. Colorado Rockies")
+      ics = described_class.build([a, b], now: now)
+      expect(ics.scan("UID:").size).to eq(1)
+      expect(ics).to include("UID:a@x")
+    end
+
+    it "does not de-duplicate events on the same date with different start times" do
+      a = event(uid: "a@x", start: Time.utc(2026, 6, 15, 0, 5, 0),
+                finish: Time.utc(2026, 6, 15, 3, 35, 0))
+      b = event(uid: "b@x", start: Time.utc(2026, 6, 15, 18, 0, 0),
+                finish: Time.utc(2026, 6, 15, 21, 0, 0))
+      ics = described_class.build([a, b], now: now)
+      expect(ics.scan("UID:").size).to eq(2)
+    end
+
     it "omits empty description and url lines" do
       ics = described_class.build(
         [event(description: "", url: "")], now: now

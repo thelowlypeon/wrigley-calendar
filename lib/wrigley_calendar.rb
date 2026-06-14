@@ -93,9 +93,17 @@ module WrigleyCalendar
         "X-WR-TIMEZONE:America/Chicago"
       ]
 
+      # Both sources can list the same event at Wrigley (e.g. Ticketmaster
+      # sells tickets to Cubs games too, and sometimes lists one concert
+      # multiple times for different ticket packages). Two events starting
+      # at the exact same instant are the same real-world event, regardless
+      # of how each source titled it. MLB events are concatenated first and
+      # `sort_by` is stable, so on a collision the MLB entry (richer
+      # description) wins; among Ticketmaster duplicates, the first listing
+      # wins.
       seen = {}
       events.sort_by(&:start).each do |e|
-        key = [e.start.getutc.to_date, e.summary.to_s.strip.downcase]
+        key = e.start.getutc.to_i
         next if seen[key]
 
         seen[key] = true
