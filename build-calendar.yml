@@ -1,0 +1,48 @@
+name: Build Wrigley calendar
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily ~6am Chicago (11:00 UTC)
+  push:
+    branches: [main]        # run the test suite on every push
+  workflow_dispatch: {}      # manual trigger from the Actions tab
+
+permissions:
+  contents: write            # needed to commit the updated .ics back
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true   # bundle install + cache gems
+      - name: Run specs
+        run: bundle exec rspec
+
+  build:
+    needs: test
+    # Only build/commit on the schedule or a manual run, not on every push.
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Generate calendar
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+        run: ruby generate.rb
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add wrigley.ics
+          git diff --staged --quiet || git commit -m "Update calendar $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
