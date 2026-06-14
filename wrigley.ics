@@ -7,7 +7,7 @@ X-WR-CALNAME:Wrigley Field Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:mlb-824666@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260616T000500Z
 DTEND:20260616T033500Z
 SUMMARY:Colorado Rockies at Chicago Cubs
@@ -16,18 +16,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4Y@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260616T000500Z
-DTEND:20260616T030500Z
-SUMMARY:Chicago Cubs vs. Colorado Rockies
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4Y
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824667@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260617T000500Z
 DTEND:20260617T033500Z
 SUMMARY:Colorado Rockies at Chicago Cubs
@@ -36,18 +26,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4s@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260617T000500Z
-DTEND:20260617T030500Z
-SUMMARY:Chicago Cubs vs. Colorado Rockies
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4s
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824668@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260618T000500Z
 DTEND:20260618T033500Z
 SUMMARY:Colorado Rockies at Chicago Cubs
@@ -56,18 +36,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4S@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260618T000500Z
-DTEND:20260618T030500Z
-SUMMARY:Chicago Cubs vs. Colorado Rockies
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4S
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824663@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260619T182000Z
 DTEND:20260619T215000Z
 SUMMARY:Toronto Blue Jays at Chicago Cubs
@@ -76,19 +46,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7b0Jo@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260619T182000Z
-DTEND:20260619T212000Z
-SUMMARY:Chicago Cubs vs Toronto Blue Jays: #BudFridays Cubs 1930s Replica
-  Jersey
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7b0Jo
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824665@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260620T182000Z
 DTEND:20260620T215000Z
 SUMMARY:Toronto Blue Jays at Chicago Cubs
@@ -97,18 +56,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4V@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260620T182000Z
-DTEND:20260620T212000Z
-SUMMARY:Chicago Cubs vs. Toronto Blue Jays
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4V
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824664@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260621T182000Z
 DTEND:20260621T215000Z
 SUMMARY:Toronto Blue Jays at Chicago Cubs
@@ -117,18 +66,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4U@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260621T182000Z
-DTEND:20260621T212000Z
-SUMMARY:Chicago Cubs vs Toronto Blue Jays: Father's Day Shirt
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4U
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824662@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260630T000500Z
 DTEND:20260630T033500Z
 SUMMARY:San Diego Padres at Chicago Cubs
@@ -137,18 +76,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4M@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260630T000500Z
-DTEND:20260630T030500Z
-SUMMARY:Chicago Cubs vs. San Diego Padres
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4M
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824661@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260701T000500Z
 DTEND:20260701T033500Z
 SUMMARY:San Diego Padres at Chicago Cubs
@@ -157,18 +86,18 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QF4y@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260701T000500Z
-DTEND:20260701T030500Z
-SUMMARY:Chicago Cubs vs. San Diego Padres
+UID:mlb-824660@wrigley-cal
+DTSTAMP:20260614T144331Z
+DTSTART:20260701T182000Z
+DTEND:20260701T215000Z
+SUMMARY:San Diego Padres at Chicago Cubs
 LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QF4y
+DESCRIPTION:MLB regular season. Status: Scheduled
+URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824659@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260703T200500Z
 DTEND:20260703T233500Z
 SUMMARY:St. Louis Cardinals at Chicago Cubs
@@ -177,18 +106,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpe@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260703T200500Z
-DTEND:20260703T230500Z
-SUMMARY:Chicago Cubs vs. St. Louis Cardinals
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpe
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824658@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260705T000800Z
 DTEND:20260705T033800Z
 SUMMARY:St. Louis Cardinals at Chicago Cubs
@@ -197,29 +116,18 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpd@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260705T000800Z
-DTEND:20260705T030800Z
-SUMMARY:Chicago Cubs vs. St. Louis Cardinals
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpd
-END:VEVENT
-BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpA@wrigley-cal
-DTSTAMP:20260614T141214Z
+UID:mlb-824656@wrigley-cal
+DTSTAMP:20260614T144331Z
 DTSTART:20260705T183000Z
-DTEND:20260705T213000Z
-SUMMARY:Chicago Cubs vs St. Louis Cardinals: Clark the Cub Building Block
-  Set
+DTEND:20260705T220000Z
+SUMMARY:St. Louis Cardinals at Chicago Cubs
 LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpA
+DESCRIPTION:MLB regular season. Status: Scheduled
+URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7qbvE@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260712T010000Z
 DTEND:20260712T040000Z
 SUMMARY:John Mulaney
@@ -228,18 +136,8 @@ DESCRIPTION:Concert / special event at Wrigley Field.
 URL:https://www.ticketmaster.com/event/Z7r9jZ1A7qbvE
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-vv1A7ZkufGkdhRAW5@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260712T010000Z
-DTEND:20260712T040000Z
-SUMMARY:John Mulaney: Mister Whatever
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.mlb.com/cubs/tickets/concerts/john-mulaney
-END:VEVENT
-BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7r90N@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260712T234500Z
 DTEND:20260713T024500Z
 SUMMARY:Tyler Childers w/ Jon Batiste
@@ -248,29 +146,8 @@ DESCRIPTION:Concert / special event at Wrigley Field.
 URL:https://www.ticketmaster.com/event/Z7r9jZ1A7r90N
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-vv1A7ZkC7Gkdcb1Cd@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260712T234500Z
-DTEND:20260713T024500Z
-SUMMARY:Tyler Childers - Snipe Hunt Platinum
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/tyler-childers-snipe-hunt-platinum-chica
- go-illinois-07-12-2026/event/04006384ED60A383
-END:VEVENT
-BEGIN:VEVENT
-UID:tm-vv1A7ZkCvGkdfnler@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260712T234500Z
-DTEND:20260713T024500Z
-SUMMARY:Tyler Childers - Snipe Hunt
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:http://cubs.com/tylerchilders
-END:VEVENT
-BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7Ogj7@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260714T233000Z
 DTEND:20260715T023000Z
 SUMMARY:Noah Kahan w/ Gigi Perez
@@ -279,18 +156,8 @@ DESCRIPTION:Concert / special event at Wrigley Field.
 URL:https://www.ticketmaster.com/event/Z7r9jZ1A7Ogj7
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-vv167ZkoeO_ZA2d7uC@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260714T233000Z
-DTEND:20260715T023000Z
-SUMMARY:Noah Kahan: The Great Divide Tour 
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:http://cubs.com/noahkahan
-END:VEVENT
-BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7-vJd@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260715T233000Z
 DTEND:20260716T023000Z
 SUMMARY:Noah Kahan w/ Gigi Perez
@@ -299,19 +166,8 @@ DESCRIPTION:Concert / special event at Wrigley Field.
 URL:https://www.ticketmaster.com/event/Z7r9jZ1A7-vJd
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-vv178Z_7GknvNw94@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260715T233000Z
-DTEND:20260716T023000Z
-SUMMARY:Noah Kahan: The Great Divide Tour 
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/noah-kahan-the-great-divide-tour-chicago
- -illinois-07-15-2026/event/0400644A818F25D5
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824655@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260718T000500Z
 DTEND:20260718T033500Z
 SUMMARY:Minnesota Twins at Chicago Cubs
@@ -320,29 +176,18 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpk@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260718T000500Z
-DTEND:20260718T030500Z
-SUMMARY:Chicago Cubs vs Minnesota Twins: #BudFridays Cubs 1940s-50s Repli
- ca Jersey
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpk
-END:VEVENT
-BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_8J_@wrigley-cal
-DTSTAMP:20260614T141214Z
+UID:mlb-824657@wrigley-cal
+DTSTAMP:20260614T144331Z
 DTSTART:20260718T182000Z
-DTEND:20260718T212000Z
-SUMMARY:Chicago Cubs vs. Minnesota Twins
+DTEND:20260718T215000Z
+SUMMARY:Minnesota Twins at Chicago Cubs
 LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_8J_
+DESCRIPTION:MLB regular season. Status: Scheduled
+URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824653@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260719T182000Z
 DTEND:20260719T215000Z
 SUMMARY:Minnesota Twins at Chicago Cubs
@@ -351,18 +196,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_3Gd@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260719T182000Z
-DTEND:20260719T212000Z
-SUMMARY:Chicago Cubs vs. Minnesota Twins
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_3Gd
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824654@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260721T000500Z
 DTEND:20260721T033500Z
 SUMMARY:Detroit Tigers at Chicago Cubs
@@ -371,18 +206,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_3uV@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260721T000500Z
-DTEND:20260721T030500Z
-SUMMARY:Chicago Cubs vs. Detroit Tigers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_3uV
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824652@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260722T000500Z
 DTEND:20260722T033500Z
 SUMMARY:Detroit Tigers at Chicago Cubs
@@ -391,18 +216,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_KA7@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260722T000500Z
-DTEND:20260722T030500Z
-SUMMARY:Chicago Cubs vs. Detroit Tigers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_KA7
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824650@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260723T000500Z
 DTEND:20260723T033500Z
 SUMMARY:Detroit Tigers at Chicago Cubs
@@ -411,19 +226,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFp6@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260723T000500Z
-DTEND:20260723T030500Z
-SUMMARY:Chicago Cubs vs Detroit Tigers: 2026 World Series Anniversary Sur
- prise Pin
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFp6
-END:VEVENT
-BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7OSQd@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260724T210000Z
 DTEND:20260725T000000Z
 SUMMARY:The Firefighters vs. Savannah Bananas
@@ -433,7 +237,7 @@ URL:https://www.ticketmaster.com/event/Z7r9jZ1A7OSQd
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7qP4S@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260725T210000Z
 DTEND:20260726T000000Z
 SUMMARY:The Firefighters vs. Savannah Bananas
@@ -443,7 +247,7 @@ URL:https://www.ticketmaster.com/event/Z7r9jZ1A7qP4S
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7Ozot@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260726T200000Z
 DTEND:20260726T230000Z
 SUMMARY:The Firefighters vs. Savannah Bananas
@@ -453,7 +257,7 @@ URL:https://www.ticketmaster.com/event/Z7r9jZ1A7Ozot
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824651@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260731T182000Z
 DTEND:20260731T215000Z
 SUMMARY:New York Yankees at Chicago Cubs
@@ -462,19 +266,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpF@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260731T182000Z
-DTEND:20260731T212000Z
-SUMMARY:Chicago Cubs vs New York Yankees: #BudFridays Cubs 1960s Replica 
- Jersey
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpF
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824649@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260801T231500Z
 DTEND:20260802T024500Z
 SUMMARY:New York Yankees at Chicago Cubs
@@ -483,18 +276,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_Nas@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260801T231500Z
-DTEND:20260802T021500Z
-SUMMARY:Chicago Cubs vs. New York Yankees
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_Nas
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824648@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260802T182000Z
 DTEND:20260802T215000Z
 SUMMARY:New York Yankees at Chicago Cubs
@@ -503,18 +286,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_0AM@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260802T182000Z
-DTEND:20260802T212000Z
-SUMMARY:Chicago Cubs vs New York Yankees: Wrigley Field Marquee Night Light
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_0AM
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824647@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260804T000500Z
 DTEND:20260804T033500Z
 SUMMARY:Los Angeles Dodgers at Chicago Cubs
@@ -523,18 +296,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7_0a-@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260804T000500Z
-DTEND:20260804T030500Z
-SUMMARY:Chicago Cubs vs. Los Angeles Dodgers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7_0a-
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824645@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260805T000500Z
 DTEND:20260805T033500Z
 SUMMARY:Los Angeles Dodgers at Chicago Cubs
@@ -543,18 +306,18 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpa@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260805T000500Z
-DTEND:20260805T030500Z
-SUMMARY:Chicago Cubs vs. Los Angeles Dodgers
+UID:mlb-824646@wrigley-cal
+DTSTAMP:20260614T144331Z
+DTSTART:20260805T182000Z
+DTEND:20260805T215000Z
+SUMMARY:Los Angeles Dodgers at Chicago Cubs
 LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpa
+DESCRIPTION:MLB regular season. Status: Scheduled
+URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824643@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260814T182000Z
 DTEND:20260814T215000Z
 SUMMARY:St. Louis Cardinals at Chicago Cubs
@@ -563,19 +326,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFp8@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260814T182000Z
-DTEND:20260814T212000Z
-SUMMARY:Chicago Cubs vs St. Louis Cardinals: #BudFridays Cubs 1980s Repli
- ca Jersey
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFp8
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824644@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260815T182000Z
 DTEND:20260815T215000Z
 SUMMARY:St. Louis Cardinals at Chicago Cubs
@@ -584,18 +336,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpo@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260815T182000Z
-DTEND:20260815T212000Z
-SUMMARY:Chicago Cubs vs. St. Louis Cardinals
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpo
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824642@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260816T191000Z
 DTEND:20260816T224000Z
 SUMMARY:St. Louis Cardinals at Chicago Cubs
@@ -604,18 +346,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFp3@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260816T191000Z
-DTEND:20260816T221000Z
-SUMMARY:Chicago Cubs vs. St. Louis Cardinals
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFp3
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824641@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260818T000500Z
 DTEND:20260818T033500Z
 SUMMARY:Chicago White Sox at Chicago Cubs
@@ -624,18 +356,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpK@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260818T000500Z
-DTEND:20260818T030500Z
-SUMMARY:Chicago Cubs vs. Chicago White Sox
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpK
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824639@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260819T000500Z
 DTEND:20260819T033500Z
 SUMMARY:Chicago White Sox at Chicago Cubs
@@ -644,18 +366,18 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFpf@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260819T000500Z
-DTEND:20260819T030500Z
-SUMMARY:Chicago Cubs vs. Chicago White Sox
+UID:mlb-824640@wrigley-cal
+DTSTAMP:20260614T144331Z
+DTSTART:20260819T182000Z
+DTEND:20260819T215000Z
+SUMMARY:Chicago White Sox at Chicago Cubs
 LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFpf
+DESCRIPTION:MLB regular season. Status: Scheduled
+URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824638@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260828T182000Z
 DTEND:20260828T215000Z
 SUMMARY:Cincinnati Reds at Chicago Cubs
@@ -664,19 +386,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuO@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260828T182000Z
-DTEND:20260828T212000Z
-SUMMARY:Chicago Cubs vs Cincinnati Reds: #BudFridays Cubs 1990s Replica J
- ersey
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuO
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824637@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260829T182000Z
 DTEND:20260829T215000Z
 SUMMARY:Cincinnati Reds at Chicago Cubs
@@ -685,18 +396,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFu-@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260829T182000Z
-DTEND:20260829T212000Z
-SUMMARY:Chicago Cubs vs. Cincinnati Reds
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFu-
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824636@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260830T191000Z
 DTEND:20260830T224000Z
 SUMMARY:Cincinnati Reds at Chicago Cubs
@@ -705,18 +406,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFux@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260830T191000Z
-DTEND:20260830T221000Z
-SUMMARY:Chicago Cubs vs Cincinnati Reds: Harry Caray Bobblehead
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFux
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824635@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260831T234000Z
 DTEND:20260901T031000Z
 SUMMARY:Milwaukee Brewers at Chicago Cubs
@@ -725,18 +416,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuN@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260831T234000Z
-DTEND:20260901T024000Z
-SUMMARY:Chicago Cubs vs. Milwaukee Brewers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuN
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824633@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260901T234000Z
 DTEND:20260902T031000Z
 SUMMARY:Milwaukee Brewers at Chicago Cubs
@@ -745,18 +426,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFu0@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260901T234000Z
-DTEND:20260902T024000Z
-SUMMARY:Chicago Cubs vs. Milwaukee Brewers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFu0
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824634@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260902T234000Z
 DTEND:20260903T031000Z
 SUMMARY:Milwaukee Brewers at Chicago Cubs
@@ -765,18 +436,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuP@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260902T234000Z
-DTEND:20260903T024000Z
-SUMMARY:Chicago Cubs vs. Milwaukee Brewers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuP
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824632@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260903T231500Z
 DTEND:20260904T024500Z
 SUMMARY:Milwaukee Brewers at Chicago Cubs
@@ -785,18 +446,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuJ@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260903T231500Z
-DTEND:20260904T021500Z
-SUMMARY:Chicago Cubs vs. Milwaukee Brewers
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuJ
-END:VEVENT
-BEGIN:VEVENT
 UID:tm-Z7r9jZ1A7x7Ok@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260906T230000Z
 DTEND:20260907T020000Z
 SUMMARY:BIG 10 X SEC Volleyball Challenge
@@ -806,7 +457,7 @@ URL:https://www.ticketmaster.com/event/Z7r9jZ1A7x7Ok
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-824631@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260911T182000Z
 DTEND:20260911T215000Z
 SUMMARY:Pittsburgh Pirates at Chicago Cubs
@@ -815,18 +466,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuE@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260911T182000Z
-DTEND:20260911T212000Z
-SUMMARY:Chicago Cubs vs. Pittsburgh Pirates
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuE
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824630@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260912T182000Z
 DTEND:20260912T215000Z
 SUMMARY:Pittsburgh Pirates at Chicago Cubs
@@ -835,18 +476,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuI@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260912T182000Z
-DTEND:20260912T212000Z
-SUMMARY:Chicago Cubs vs. Pittsburgh Pirates
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuI
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824628@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260913T182000Z
 DTEND:20260913T215000Z
 SUMMARY:Pittsburgh Pirates at Chicago Cubs
@@ -855,18 +486,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFut@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260913T182000Z
-DTEND:20260913T212000Z
-SUMMARY:Chicago Cubs vs Pittsburgh Pirates: Sammy Sosa Bobblehead
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFut
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824629@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260914T234000Z
 DTEND:20260915T031000Z
 SUMMARY:Atlanta Braves at Chicago Cubs
@@ -875,18 +496,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuY@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260914T234000Z
-DTEND:20260915T024000Z
-SUMMARY:Chicago Cubs vs. Atlanta Braves
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuY
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824627@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260915T234000Z
 DTEND:20260916T031000Z
 SUMMARY:Atlanta Braves at Chicago Cubs
@@ -895,18 +506,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFus@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260915T234000Z
-DTEND:20260916T024000Z
-SUMMARY:Chicago Cubs vs. Atlanta Braves
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFus
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824626@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260916T234000Z
 DTEND:20260917T031000Z
 SUMMARY:Atlanta Braves at Chicago Cubs
@@ -915,18 +516,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuw@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260916T234000Z
-DTEND:20260917T024000Z
-SUMMARY:Chicago Cubs vs. Atlanta Braves
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuw
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824624@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260922T234000Z
 DTEND:20260923T031000Z
 SUMMARY:Miami Marlins at Chicago Cubs
@@ -935,18 +526,8 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuS@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260922T234000Z
-DTEND:20260923T024000Z
-SUMMARY:Chicago Cubs vs. Miami Marlins
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuS
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824625@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260923T234000Z
 DTEND:20260924T031000Z
 SUMMARY:Miami Marlins at Chicago Cubs
@@ -955,33 +536,13 @@ DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFuV@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260923T234000Z
-DTEND:20260924T024000Z
-SUMMARY:Chicago Cubs vs. Miami Marlins
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFuV
-END:VEVENT
-BEGIN:VEVENT
 UID:mlb-824623@wrigley-cal
-DTSTAMP:20260614T141214Z
+DTSTAMP:20260614T144331Z
 DTSTART:20260924T182000Z
 DTEND:20260924T215000Z
 SUMMARY:Miami Marlins at Chicago Cubs
 LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
 DESCRIPTION:MLB regular season. Status: Scheduled
 URL:https://www.mlb.com/cubs/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:tm-Z7r9jZ1A7QFug@wrigley-cal
-DTSTAMP:20260614T141214Z
-DTSTART:20260924T182000Z
-DTEND:20260924T212000Z
-SUMMARY:Chicago Cubs vs Miami Marlins: Fan Appreciation
-LOCATION:Wrigley Field\, 1060 W Addison St\, Chicago\, IL 60613
-DESCRIPTION:Concert / special event at Wrigley Field.
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7QFug
 END:VEVENT
 END:VCALENDAR
