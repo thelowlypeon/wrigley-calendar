@@ -179,9 +179,9 @@ module WrigleyCalendar
     end
 
     # I/O: hit the free MLB StatsAPI (no key required).
-    def fetch(lookahead_days: 400)
-      start = Date.today
-      stop  = start + lookahead_days
+    def fetch(lookahead_days: 400, lookback_days: 30)
+      start = Date.today - lookback_days
+      stop  = Date.today + lookahead_days
       params = URI.encode_www_form(
         sportId: 1, teamId: TEAM_ID,
         startDate: start.iso8601, endDate: stop.iso8601, hydrate: "venue"
@@ -247,11 +247,15 @@ module WrigleyCalendar
     end
 
     # I/O: paginate the Discovery API for this venue.
-    def fetch(api_key: ENV["TM_API_KEY"].to_s.strip, max_pages: 5)
+    def fetch(api_key: ENV["TM_API_KEY"].to_s.strip, max_pages: 5, lookback_days: 30)
       if api_key.empty?
         warn "[warn] TM_API_KEY not set -- skipping concerts/special events"
         return []
       end
+
+      # Discovery API excludes past events by default; explicitly include
+      # the lookback window via startDateTime.
+      start_date_time = (Time.now.utc - (lookback_days * 86_400)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
       events = []
       page = 0
@@ -259,7 +263,8 @@ module WrigleyCalendar
       while page < total_pages && page < max_pages
         params = URI.encode_www_form(
           apikey: api_key, venueId: VENUE_ID,
-          size: 200, page: page, sort: "date,asc"
+          size: 200, page: page, sort: "date,asc",
+          startDateTime: start_date_time
         )
         uri  = "https://app.ticketmaster.com/discovery/v2/events.json?#{params}"
         data = JSON.parse(Http.get(uri))
